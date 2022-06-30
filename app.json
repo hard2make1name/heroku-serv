@@ -1,0 +1,9 @@
+{
+  "name": "heroku-serv",
+  "description": "",
+  "keywords": ["V2ray", "Xray"],
+  "env": {},
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
