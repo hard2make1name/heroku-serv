@@ -5,6 +5,6 @@ RUN set -ex \
     && apt upgrade -y \
     && apt install ssh -y \
     && apt install openssh-server -y \
-    && ssh-keygen -q
+    && ssh-keygen -q \
     && whoami
 
